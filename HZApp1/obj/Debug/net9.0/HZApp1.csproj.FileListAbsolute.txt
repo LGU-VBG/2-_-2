@@ -1,0 +1,14 @@
+C:\ls\HZApp1\bin\Debug\net9.0\HZApp1.exe
+C:\ls\HZApp1\bin\Debug\net9.0\HZApp1.deps.json
+C:\ls\HZApp1\bin\Debug\net9.0\HZApp1.runtimeconfig.json
+C:\ls\HZApp1\bin\Debug\net9.0\HZApp1.dll
+C:\ls\HZApp1\bin\Debug\net9.0\HZApp1.pdb
+C:\ls\HZApp1\obj\Debug\net9.0\HZApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ls\HZApp1\obj\Debug\net9.0\HZApp1.AssemblyInfoInputs.cache
+C:\ls\HZApp1\obj\Debug\net9.0\HZApp1.AssemblyInfo.cs
+C:\ls\HZApp1\obj\Debug\net9.0\HZApp1.csproj.CoreCompileInputs.cache
+C:\ls\HZApp1\obj\Debug\net9.0\HZApp1.dll
+C:\ls\HZApp1\obj\Debug\net9.0\refint\HZApp1.dll
+C:\ls\HZApp1\obj\Debug\net9.0\HZApp1.pdb
+C:\ls\HZApp1\obj\Debug\net9.0\HZApp1.genruntimeconfig.cache
+C:\ls\HZApp1\obj\Debug\net9.0\ref\HZApp1.dll
